@@ -1,0 +1,7 @@
+# generated databse
+weather.db 
+
+# Python cache files
+_pycache_/
+*.pyc 
+
